@@ -44,3 +44,6 @@ int main(void)
   and use them to set rdi value to /bin/sh string and return back to system() and get shell </p>
   
 <a href="exploit.py">Exploit.py</a>
+
+<p> We run program and it does what it needs to do and we get our shell. After that we can simply cat flag.txt</p>
+<i><b>flag{jump_1nt0_th3_l1brary}</b><i>
