@@ -2,7 +2,7 @@
 
 <p> First we donwload the files provided to us which consists of a c source file a binary, and a libc file which is just a copy of the libc used on the server.
 As the description says, there are not a lot of useful Functions in the binary itself, so we will have to find them elsewhere.</p>
-<p> First we can take a look at the .c source file and discover there is a buffer overflow vulnerability </p>
+<p> First we can take a look at the .c source file and discover there is a buffer overflow vulnerability.</p>
 
 ```c
 
