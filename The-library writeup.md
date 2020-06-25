@@ -43,4 +43,4 @@ int main(void)
   Below is a script i wrote whitch will connect to target server and leak puts libc address and calculate the rest of the addresses
   and use them to set rdi value to /bin/sh string and return back to system() and get shell </p>
   
-<a href="../../exploit.py">Exploit.py</a>
+<a href="exploit.py">Exploit.py</a>
